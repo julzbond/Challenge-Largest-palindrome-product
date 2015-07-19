@@ -1,7 +1,7 @@
 var chai = require('chai');
 var expect = chai.expect;
 
-var findPalidromeProduct = require("../largest_palindrome_product.js");
+var findPalindromeProduct = require("../largest_palindrome_product.js");
 
 describe("The Largest Palindrome Product", function () {
 
